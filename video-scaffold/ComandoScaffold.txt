@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Server=.\sql2017;Database=EFCoreDBFirst;User=sa;Password=ian.,123;TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SqlServer -Context "EFCoreDBFirstContext" -NoOnConfiguring -NoPluralize -StartupProject video-scaffold -contextdir Data -outputdir Entities
